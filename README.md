@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **About app development**
+- 💬 Ask me about ** App Development**
 
 - 📫 How to reach me **kaderhosen2002@gmail.com**
 
