@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Md.Abdul Kader</h1>
+<h1 align="left">Hi 👋, I'm Md.Abdul Kader</h1>
 - 🌱 I’m currently learning **Flutter**
 
 - 💬 Ask me about **About app development**
