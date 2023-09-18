@@ -10,7 +10,35 @@ In addition to my technical skills, I am an excellent communicator and possess s
 Thanks and Regards</br>
 Abdul Kader
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulkadercse&label=Profile%20views&color=0e75b6&style=flat" alt="abdulkadercse" /> </p>
+
+<h1 align="left">Skills:</h1>
+<p> <b>❖ Expertise:</b> Flutter, Dart, OOP, REST APIs, Firebase, Local Database, Push Notification, Responsive UI
+Design, Play Store, App Store etc.</p>
+
+<p> <b>❖ State Management:</b> GetX, Riverpod</p>
+<p> <b>❖ Tools:</b> Git and Github, VS Code, Xcode, Figma, Adobe XD, Canva, Postman</p>
+
+<h1 align="left">Work Experience:</h1>
+<h3>Maktro Electronics Limited (April 2023- Present)</h3>
+<p>Bosila, Mohammadpur, Dhaka 1207</p>
+<p>Junior Software Engineer (Flutter)</p>
+<h4>Responsibility:</h4>
+<ul>
+  <li>Develop Mobile Application for both Android and IOS.</li>
+  <li>Customization apps and new features added according to customer demands.</li>
+  <li>Fix bugs of existing mobile apps.</li>
+   <li> Deploy apps on Play Store and app store.</li>
+</ul>
+
+
+<h1 align="left">Education:</h1>
+<h3>Diploma in Engineering - CSE (2018 - 2022)</h3>
+<p>Tangail Polytechnic Institute</p>
+
+<h1 align="left">Technical Course:</h1>
+<p>Flutter App Development - App Development Training Cross Platform under ICT Division</p>
+<p>Flutter App Development - Maan Technology</p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdulkadercse" alt="abdulkadercse" /></a> </p>
 
