@@ -1,4 +1,15 @@
 <h1 align="left">Hi 👋, I'm Md.Abdul Kader</h1>
+<p align="left">I'm a professional Flutter Developer. I have been working as a Flutter Developer for more than 1 year.
+
+During my studies, I gained hands-on experience in developing mobile applications using Flutter framework. I have completed several projects that involved creating interactive user interfaces, integrating third-party APIs, and utilizing database management systems such as Firebase. In addition, I have a solid understanding of object-oriented programming concepts and experience with programming languages such as Dart and JavaScript.
+
+I am a quick learner with a passion for solving problems and delivering high-quality code. I am comfortable working in a team environment and am eager to collaborate with other developers to create seamless user experiences. My attention to detail and dedication to testing ensure that my code is efficient and reliable.
+
+In addition to my technical skills, I am an excellent communicator and possess strong organizational skills. I am confident that I can work collaboratively with your team and contribute to your company's success.
+
+Thanks and Regards</br>
+Abdul Kader
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulkadercse&label=Profile%20views&color=0e75b6&style=flat" alt="abdulkadercse" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdulkadercse" alt="abdulkadercse" /></a> </p>
