@@ -12,11 +12,72 @@ Abdul Kader
 </p>
 
 <h1 align="left">Skills:</h1>
-<p> <b>❖ Expertise:</b> Flutter, Dart, OOP, REST APIs, Firebase, Local Database, Push Notification, Responsive UI
+<p> <b>❖ Expertise:</b> Flutter, Dart, OOP, REST APIs, Firebase, Local Database, Push Notification, Localization, Responsive UI
 Design, Play Store, App Store etc.</p>
 
 <p> <b>❖ State Management:</b> GetX, Riverpod</p>
 <p> <b>❖ Tools:</b> Git and Github, VS Code, Xcode, Figma, Adobe XD, Canva, Postman</p>
+
+
+<h1 align="left">Projects:</h1>
+
+<h3>Maktro GPS Tracker</h3>
+<p>Another developer developed this app. But I have many features added, customization, bugs fixed, and also UI/UX.</p>
+<h4>Project Features:</h4>
+<ul>
+<li><b>Live Tracking:</b> You can do live tracking of your car, that is, whether your car engine is on or off, you can see which road, where your car is moving, and how fast it is moving.</li>
+<li><b>History Record:</b>Throughout the day, where your car went and how many times it stopped, how long it stopped, at what time and speed, everything will be recorded and you can see it at any time.</li>
+<li><b>Engine Lock:</b> You can turn off the engine of your car from any distance, through APPS/SMS from any mobile. The car cannot start in any way when the engine is locked.</li>
+<li><b>Geo-Fence:</b> You can set a specific area, you will get an alarm on your mobile if you go outside that area.</li>
+<li><b>Over Speed:</b> You can set a specific speed. If you drive the car at a higher speed than that speed</li>
+<li><b>Anti wire cut:</b> If you disconnect any connection of Maktro Gps Tracker or disconnect all connections or devices, the car engine will stop automatically. The car will not start at all.</li>
+<li><b>Notify:</b> No matter where you are in the world, if you try to steal a car, you will receive notifications, calls, and alarms, and calls will come to your mobile immediately. Anti-Hijack If the thief completely removes the Maktro GPS Tracker from your car, the auto sensor will shut the car off automatically.</li>
+
+</ul>
+<p align="left">
+<a href="https://play.google.com/store/apps/details?id=com.maktro.maktrogpstracker" target="blank">Android Link |</a>
+<a href="https://apps.apple.com/us/app/maktro-gps-tracker/id6463846330" target="blank">IOS Link</a>
+</p>
+
+<h3>Bike Lock</h3>
+<h4>Project Features:</h4>
+<ul>
+  <li>Find, Device Status, lock and unlock bikes via SMS.</li>
+  <li>If your bike or any connection is disconnected then the device will automatically call you.</li>
+  <li>You can silent the alarm via SMS / Call if you want.</li>
+</ul>
+<p align="left">
+<a href="https://play.google.com/store/apps/details?id=com.maktro.bikelockold" target="blank">Android Link |</a>
+<a href="https://apps.apple.com/kw/app/bike-lock-bd/id1478416802" target="blank">IOS Link</a>
+</p>
+
+<h3>News App Using REST API</h3>
+<h4>Project Features:</h4>
+<ul>
+  <li>Sign up, Sign in (Auto Sign in).</li>
+  <li>User can update profile, change password, log out, and search news.</li>
+  <li>State Management using Riverpod.</li>
+</ul>
+<p align="left">
+<a href="https://github.com/abdulkadercse/news-app-with-api" target="blank">Source Code |</a>
+<a href="https://docs.google.com/document/d/1LujApNrxS55cUdMFgN3SLj_4P54YMMAz2ySuZdDJCa4/edit?usp=sharing" target="blank">APK link |</a>
+<a href="https://docs.google.com/document/d/1LujApNrxS55cUdMFgN3SLj_4P54YMMAz2ySuZdDJCa4/edit?usp=sharing" target="blank">Video link</a>
+</p>
+
+
+<h3>Restaurant App UI Design</h3>
+<h4>Project Features:</h4>
+<ul>
+  <li>Sign up, Sign in (Save data in a SharedPreferences)</li>
+  <li>Form Validation (valid name, email address, and password must be at least 8 digits, one uppercase, lowercase, number, special characters).</li>
+  <li>Phone Call.</li>
+</ul>
+
+<p align="left">
+<a href="https://github.com/abdulkadercse/restaurant_app" target="blank">Source Code |</a>
+<a href="https://docs.google.com/document/d/1LujApNrxS55cUdMFgN3SLj_4P54YMMAz2ySuZdDJCa4/edit?usp=sharing" target="blank">APK link |</a>
+<a href="https://docs.google.com/document/d/1LujApNrxS55cUdMFgN3SLj_4P54YMMAz2ySuZdDJCa4/edit?usp=sharing" target="blank">Video link</a>
+</p>
 
 <h1 align="left">Work Experience:</h1>
 <h3>Maktro Electronics Limited (April 2023- Present)</h3>
