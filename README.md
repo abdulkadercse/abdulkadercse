@@ -22,7 +22,6 @@ Design, Play Store, App Store etc.</p>
 <h1 align="left">Projects:</h1>
 
 <h3>Maktro GPS Tracker</h3>
-<p>Another developer developed this app. But I have many features added, customization, bugs fixed, and also UI/UX.</p>
 <h4>Project Features:</h4>
 <ul>
 <li><b>Live Tracking:</b> You can do live tracking of your car, that is, whether your car engine is on or off, you can see which road, where your car is moving, and how fast it is moving.</li>
