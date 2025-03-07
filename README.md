@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Md.Abdul Kader</h1>
-<p align="left">I'm a professional Flutter Developer. I have been working as a Flutter Developer for more than 1 year.
+<p align="left">I'm a professional Flutter Developer. I have been working as a Flutter Developer for more than 2 years.
 
 During my studies, I gained hands-on experience in developing mobile applications using Flutter framework. I have completed several projects that involved creating interactive user interfaces, integrating third-party APIs, and utilizing database management systems such as Firebase. In addition, I have a solid understanding of object-oriented programming concepts and experience with programming languages such as Dart and JavaScript.
 
@@ -12,43 +12,42 @@ Abdul Kader
 </p>
 
 <h1 align="left">Skills:</h1>
-<p> <b>❖ Expertise:</b> Flutter, Dart, OOP, REST APIs, Firebase, Local Database, Push Notification, Localization, Responsive UI
-Design, Play Store, App Store etc.</p>
-
+<p> <b>❖ Expertise:</b>Flutter, Dart, C, OOP, REST APIs, Google Map, Location Service, Firebase, Local Database, Localization, Push Notification, Responsive UI Design, Play Store, App Store etc.</p>
+<p> <b>❖ Payment Getway:</b> Bkash</p>
+<p> <b>❖ OS:</b> Windows, Mac OS</p>
 <p> <b>❖ State Management:</b> GetX, Riverpod</p>
-<p> <b>❖ Tools:</b> Git and Github, VS Code, Xcode, Figma, Adobe XD, Canva, Postman</p>
+<p> <b>❖ Tools:</b> Git and Github, Android Studio, VS Code, Xcode, Figma, Adobe XD, Canva, Postman</p>
 
 
 <h1 align="left">Projects:</h1>
 
-<h3>Maktro GPS Tracker</h3>
+<h3>My Shop Developed by Me</h3>
 <h4>Project Features:</h4>
 <ul>
-<li><b>Live Tracking:</b> You can do live tracking of your car, that is, whether your car engine is on or off, you can see which road, where your car is moving, and how fast it is moving.</li>
-<li><b>History Record:</b>Throughout the day, where your car went and how many times it stopped, how long it stopped, at what time and speed, everything will be recorded and you can see it at any time.</li>
-<li><b>Engine Lock:</b> You can turn off the engine of your car from any distance, through APPS/SMS from any mobile. The car cannot start in any way when the engine is locked.</li>
-<li><b>Geo-Fence:</b> You can set a specific area, you will get an alarm on your mobile if you go outside that area.</li>
-<li><b>Over Speed:</b> You can set a specific speed. If you drive the car at a higher speed than that speed</li>
-<li><b>Anti wire cut:</b> If you disconnect any connection of Maktro Gps Tracker or disconnect all connections or devices, the car engine will stop automatically. The car will not start at all.</li>
-<li><b>Notify:</b> No matter where you are in the world, if you try to steal a car, you will receive notifications, calls, and alarms, and calls will come to your mobile immediately. Anti-Hijack If the thief completely removes the Maktro GPS Tracker from your car, the auto sensor will shut the car off automatically.</li>
-
+  <li>Product</li>
+  <li>Product Details</li>
+  <li>Add to Cart (Multiple products add to cart)</li>
+  <li>Go to Cart</li>
+  <li>Buy Now</li>
+  <li>Checkout (Increases quantity)</li>
+  <li>Shipping Information Form</li>
+  <li>Confirm Order</li>
+  <li>Payment (Bkash)</li>
+  <li>Order Success</li>
 </ul>
-<p align="left">
-<a href="https://play.google.com/store/apps/details?id=com.maktro.maktrogpstracker" target="blank">Android Link |</a>
-<a href="https://apps.apple.com/us/app/maktro-gps-tracker/id6463846330" target="blank">IOS Link</a>
-</p>
 
-<h3>Bike Lock</h3>
+
+<h3>Give Me Blood Developed by Me</h3>
 <h4>Project Features:</h4>
 <ul>
-  <li>Find, Device Status, lock and unlock bikes via SMS.</li>
-  <li>If your bike or any connection is disconnected then the device will automatically call you.</li>
-  <li>You can silent the alarm via SMS / Call if you want.</li>
+  <li>Sign Up, Sign In (Auto Sign In)</li>
+  <li>Add a Post for Your Required Blood Type</li>
+  <li>Users Can Contact You if the Blood Matches and They Are Interested</li>
+  <li>Multiple Languages (English, Bangla)</li>
+  <li>Dark and Light Mode</li>
+  <li>Users Can Change Their Password</li>
+  <li>User Can Logout</li>
 </ul>
-<p align="left">
-<a href="https://play.google.com/store/apps/details?id=com.maktro.bikelockold" target="blank">Android Link |</a>
-<a href="https://apps.apple.com/kw/app/bike-lock-bd/id1478416802" target="blank">IOS Link</a>
-</p>
 
 <h3>News App Using REST API</h3>
 <h4>Project Features:</h4>
@@ -92,6 +91,8 @@ Design, Play Store, App Store etc.</p>
 
 
 <h1 align="left">Education:</h1>
+<h3>B.Sc. in Computer Science and Engineering- CSE (2024 - Running)</h3>
+<p>Northern University Bangladesh</p>
 <h3>Diploma in Engineering - CSE (2018 - 2022)</h3>
 <p>Tangail Polytechnic Institute</p>
 
