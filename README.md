@@ -78,17 +78,18 @@ Abdul Kader
 </p>
 
 <h1 align="left">Work Experience:</h1>
-<h3>Maktro Electronics Limited (April 2023- Present)</h3>
+<h3>Maktro Electronics (April 2023- February 2025)</h3>
 <p>Bosila, Mohammadpur, Dhaka 1207</p>
 <p>Junior Software Engineer (Flutter)</p>
 <h4>Responsibility:</h4>
 <ul>
-  <li>Develop Mobile Application for both Android and IOS.</li>
-  <li>Customization apps and new features added according to customer demands.</li>
-  <li>Fix bugs of existing mobile apps.</li>
-   <li> Deploy apps on Play Store and app store.</li>
+  <li>Developed and implemented mobile applications using Flutter.</li>
+  <li>Translated designs and wireframes into high-quality code.</li>
+  <li>Optimized app performance and ensured compatibility across various devices.</li>
+  <li>Troubleshot and debugged issues to maintain app stability.</li>
+  <li>Stayed updated on Flutter and mobile development trends.</li>
+  <li>Deployed applications to Google Play Store and Apple App Store, ensuring adherence to platform guidelines and best practices.</li>
 </ul>
-
 
 <h1 align="left">Education:</h1>
 <h3>B.Sc. in Computer Science and Engineering- CSE (2024 - Running)</h3>
