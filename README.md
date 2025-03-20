@@ -36,7 +36,6 @@ Abdul Kader
   <li>Order Success</li>
 </ul>
 
-
 <h3>Give Me Blood Developed by Me</h3>
 <h4>Project Features:</h4>
 <ul>
@@ -61,7 +60,6 @@ Abdul Kader
 <a href="https://docs.google.com/document/d/1LujApNrxS55cUdMFgN3SLj_4P54YMMAz2ySuZdDJCa4/edit?usp=sharing" target="blank">APK link |</a>
 <a href="https://docs.google.com/document/d/1LujApNrxS55cUdMFgN3SLj_4P54YMMAz2ySuZdDJCa4/edit?usp=sharing" target="blank">Video link</a>
 </p>
-
 
 <h3>Restaurant App UI Design</h3>
 <h4>Project Features:</h4>
