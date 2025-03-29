@@ -99,7 +99,6 @@ Abdul Kader
 <p>Flutter App Development - App Development Training Cross Platform under ICT Division</p>
 <p>Flutter App Development - Maan Technology</p>
 
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdulkadercse" alt="abdulkadercse" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/abdulkadercse" target="blank"><img src="https://img.shields.io/twitter/follow/abdulkadercse?logo=twitter&style=for-the-badge" alt="abdulkadercse" /></a> </p>
