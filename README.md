@@ -15,7 +15,7 @@ Abdul Kader
 <p> <b>❖ Expertise:</b>Flutter, Dart, C, OOP, REST APIs, Google Map, Location Service, Firebase, Local Database, Localization, Push Notification, Responsive UI Design, Play Store, App Store etc.</p>
 <p> <b>❖ Payment Getway:</b> Bkash</p>
 <p> <b>❖ OS:</b> Windows, Mac OS</p>
-<p> <b>❖ State Management:</b> GetX, Riverpod</p>
+<p> <b>❖ State Management:</b> GetX, Provider, Riverpod</p>
 <p> <b>❖ Tools:</b> Git and Github, Android Studio, VS Code, Xcode, Figma, Adobe XD, Canva, Postman</p>
 
 
