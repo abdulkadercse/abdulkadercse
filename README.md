@@ -76,7 +76,7 @@ Abdul Kader
 </p>
 
 <h1 align="left">Work Experience:</h1>
-<h3>Maktro Electronics (April 2023- February 2025)</h3>
+<h3>Nojor GPS (April 2023- February 2025)</h3>
 <p>Bosila, Mohammadpur, Dhaka 1207</p>
 <p>Junior Software Engineer (Flutter)</p>
 <h4>Responsibility:</h4>
